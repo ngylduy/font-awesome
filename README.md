@@ -1,2 +1,1 @@
-# font-awesome
-CDN free for Font Awesome 5 Pro
+# font-awesome 5 Pro
